@@ -6,7 +6,7 @@ I am a graduate student in mathematics and I am currently studying at Toulouse, 
 
 I was born on October 26th, 1998. However, you may already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: 'changes' every year.
 
-I like to write [:pencil2:](/categories/Chinese/), but mainly in Chinese. In my [Math Blog](/categories/math/) , I post the following:
+I like to write [:pencil2:](/categories/Chinese/), but mainly in Chinese. In my [Math Blog](https://jingmatrix.github.io/categories/math) , I post the following:
   - Math notes
   - Computer program scripts
   - Excerpts from mathematical articles
