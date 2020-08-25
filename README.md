@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![](https://count.getloli.com/get/@jingmatrix.github.io?theme=rule34)
-### [About Me](https://jingmatrix.github.io/cv)
+### [About Me](https://jingmatrix.github.io/about/)
 
 I am a graduate student in mathematics and I am currently studying at Toulouse, France.
 
 I was born on October 26th, 1998. However, you may already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: 'changes' every year.
 
-I like to write [:pencil2:](/categories/Chinese/), but mainly in Chinese. In my [Math Blog](https://jingmatrix.github.io/categories/math) , I post the following:
+I like to write [:pencil2:](/categories/Chinese/), but mainly in Chinese. In my [Math Blog](https://jingmatrix.github.io/article) , I post the following:
   - Math notes
   - Computer program scripts
   - Excerpts from mathematical articles
@@ -20,14 +20,13 @@ In a sense, my taste is a bit retro:
 
 If interested, you can find :egg: in [Matrix](https://jingmatrix.github.io):stuck_out_tongue_winking_eye:.
 
-### [中文博客](https://jingmatrix.github.io/categories/Chinese/)
+### [中文博客](https://jingmatrix.github.io/blog)
 
-在这里我更新自己对[日常生活](https://jingmatrix.github.io/tags/#%E7%94%9F%E6%B4%BB%E7%9B%B8%E5%85%B3)的[思考](https://jingmatrix.github.io/tags/#%E6%80%9D%E8%80%83)以及一些[诗歌创作](https://jingmatrix.github.io/tags/#%E6%83%85%E6%84%9F%E5%88%9B%E4%BD%9C)。
+在这里我更新自己对`日常生活`的`思考`以及一些`诗歌创作`。
 
 ### Subscribe me (订阅我的更新)
 
 - Join my [telegram group](https://t.me/jmBlogs)
-- By [RSS feed](https://jingmatrix.github.io/feed.xml)
 
 <!--
 **JingMatrix/JingMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
