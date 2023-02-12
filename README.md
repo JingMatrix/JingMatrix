@@ -20,7 +20,7 @@ In a sense, my taste is a bit retro:
 
 If interested, you can find :egg: in [Matrix](https://jingmatrix.github.io):stuck_out_tongue_winking_eye:.
 
-### [中文博客](https://jingmatrix.github.io/blog)
+### [中文博客](https://jingmatrix.github.io/zh/)
 
 在这里我更新自己对`日常生活`的`思考`以及一些`诗歌创作`。
 
