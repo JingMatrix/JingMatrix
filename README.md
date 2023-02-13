@@ -4,21 +4,21 @@
 
 I am a PhD student in mathematics and I am currently studying at Toulouse, France.
 
-I was born on October 26th, 1998. However, you may already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: 'changes' every year.
+I was born on October 26th, 1998. However, you might already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: _changes_ every year.
 
-I like to write [:pencil2:](https://jingmatrix.github.io/blog), but mainly in Chinese. In my [Math Blog](https://jingmatrix.github.io/articles/math-work/2019-08-12-Intersection-of-tangent-space) , I post the following:
-  - Math notes
-  - Computer program scripts
-  - Excerpts from mathematical articles
+I enjoy writing, in English, French and Chinese. There is a language switch button in [my blog](https://jingmatrix.github.io/) to see different contents.
+  - [English](https://jingmatrix.github.io/en/): math notes, programming tricks, dairies
+  - [French](https://jingmatrix.github.io/fr/): poems, life in France
+  - [Chinese](https://jingmatrix.github.io/zh/): thoughts, poems
 
-My collection of math notes and ebooks is shared on [Google Drive](https://drive.google.com/drive/folders/1O279emuW9Z1LGmQ94fbRYfjZoxT8bpwU?usp=sharing).
+Using Google Drive, I share [Math books](https://drive.google.com/drive/folders/1O279emuW9Z1LGmQ94fbRYfjZoxT8bpwU) and other [Hobby readings](https://drive.google.com/drive/folders/1-5uxWOntIKyiwtsKfaKgsxlCYe6cFVFX); books there are well-compressed and include bookmarks (manually embedded).
 
 In a sense, my taste is a bit retro:
   - For musician :musical_note:, I prefer [Beethoven](https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven).
   - For director :movie_camera:, I prefer [Béla Tarr](https://fr.wikipedia.org/wiki/B%C3%A9la_Tarr), all of his movies are Black-and-White.
   - For writer :books:, I prefer Nietzsche, especially his [Par-delà le bien et le mal](https://fr.wikipedia.org/wiki/Par-del%C3%A0_le_bien_et_le_mal).
 
-If interested, you can find :egg: in [Matrix](https://jingmatrix.github.io):stuck_out_tongue_winking_eye:.
+If interested, you can find :egg: in [Matrix](https://jingmatrix.github.io) :stuck_out_tongue_winking_eye:.
 
 ### [中文博客](https://jingmatrix.github.io/zh/)
 
