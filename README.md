@@ -2,7 +2,7 @@
 ![](https://count.getloli.com/get/@jingmatrix.github.io?theme=rule34)
 ### [About Me](https://jingmatrix.github.io/about/)
 
-I am a PhD student in mathematics and I am currently studying at Toulouse, France.
+I am a [PhD in mathematics](https://www.math.univ-toulouse.fr/~jma/pdf/thesis.pdf) and I am currently teaching in university at Toulouse, France.
 
 I was born on October 26th, 1998. However, you might already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: _changes_ every year.
 
