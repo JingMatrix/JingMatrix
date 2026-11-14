@@ -2,9 +2,9 @@
 ![](https://count.getloli.com/get/@jingmatrix.github.io?theme=rule34)
 ### [About Me](https://jingmatrix.github.io/about/)
 
-I am a [PhD in mathematics](https://www.math.univ-toulouse.fr/~jma/pdf/thesis.pdf) and I am currently teaching in university at Toulouse, France.
+I have a [PhD degree in mathematics](https://www.math.univ-toulouse.fr/~jma/pdf/thesis.pdf) and I am currently running a consultancy `Matrix Transformation` at Toulouse, France.
 
-I was born on October 26th, 1998. However, you might already know that many Chinese people use a different [calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: _changes_ every year.
+I was born on October 26th, 1998 according to the [Chinese calendar](https://en.wikipedia.org/wiki/Chinese_calendar), so my birthday :birthday: _changes_ every year.
 
 I enjoy writing, in English, French and Chinese. There is a language switch button in [my blog](https://jingmatrix.github.io/) to see different contents.
   - [English](https://jingmatrix.github.io/en/): math notes, programming tricks, dairies
